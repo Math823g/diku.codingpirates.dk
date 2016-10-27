@@ -79,7 +79,7 @@ kerner!
 <a href="/images/frivillige/Mathies.jpg"><im src="images/frivillige/Mathies.jpg"/></a>
 Jeg er frivillig i DIKU-afdelingen, og studerer bachelorlinjen Software Udvikling på ITU.
 Jeg hjælper primært med Scratch, men hjælper også med Processing.
-Jeg har været frivillig i over 1 år nu, og kan godt at hjælpe andre med at løse diverse kodeproblemer. 
+Jeg har været frivillig i over 1 år nu, og kan godt lide at hjælpe andre med at løse diverse kodeproblemer. 
 
 ### Pieter Vancraeyveld
 Belgieren. Ph.D. i fysik. Kollega til
